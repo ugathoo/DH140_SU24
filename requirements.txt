@@ -1,0 +1,4 @@
+requests
+nltk.tokenize
+word_tokenize
+nltk
